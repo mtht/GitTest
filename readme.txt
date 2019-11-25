@@ -5,3 +5,9 @@ Git tracks changes of files.
 Creating a new branch is quick
 
 git push
+<<<<<<< Updated upstream
+=======
+
+Git bug issue, use stash
+
+>>>>>>> Stashed changes
