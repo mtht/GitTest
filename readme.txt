@@ -11,3 +11,5 @@ git push
 Git bug issue, use stash
 
 >>>>>>> Stashed changes
+
+git tortoiseGit practice
